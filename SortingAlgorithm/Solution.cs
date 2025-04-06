@@ -36,7 +36,10 @@ namespace SortingAlgorithm
                 case 1 :
                     SinglyLinkedListSort(dataset);
                     break;
-
+                      
+                case 2 :
+                    BubbleSort(dataset);
+                    break;
             }
             return result;
         }
@@ -97,5 +100,35 @@ namespace SortingAlgorithm
 
         #endregion
 
+        #region Bubble Sort
+        public static int[] BubbleSort(int[] array)
+        {
+            //Calulate time
+            var watch = System.Diagnostics.Stopwatch.StartNew();
+
+            int size =  array.Length;
+            int[] result = new int[size];
+            int temp;
+            for(int i = 1; i<array.Length; i++)
+            {
+                for(int j=0;j<array.Length-1;j++)
+                {
+                    if(array[j] == array[i+1])
+                    {
+                        temp = array[j];
+                        array[j] = array[i+1];
+                        array[i+1] = temp;
+                    }
+                }
+            }
+            //Waktu stop
+            watch.Stop();
+            double elapsedMs = watch.ElapsedMilliseconds;
+
+            //Print total waktu
+            Console.WriteLine("Sorted With Bubble Sort List in " + elapsedMs + " ms");
+            return result;
+        }
+        #endregion
     }
 }

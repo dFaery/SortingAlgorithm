@@ -5,3 +5,10 @@ C:\Users\joshu\source\repos\SortingAlgorithm\SortingAlgorithm\obj\Debug\SortingA
 C:\Users\joshu\source\repos\SortingAlgorithm\SortingAlgorithm\obj\Debug\SortingAlgorithm.csproj.CoreCompileInputs.cache
 C:\Users\joshu\source\repos\SortingAlgorithm\SortingAlgorithm\obj\Debug\SortingAlgorithm.exe
 C:\Users\joshu\source\repos\SortingAlgorithm\SortingAlgorithm\obj\Debug\SortingAlgorithm.pdb
+E:\UBAYA\Semester 3\Data Structure\Project\SortingAlgorithm\SortingAlgorithm\bin\Debug\SortingAlgorithm.exe.config
+E:\UBAYA\Semester 3\Data Structure\Project\SortingAlgorithm\SortingAlgorithm\bin\Debug\SortingAlgorithm.exe
+E:\UBAYA\Semester 3\Data Structure\Project\SortingAlgorithm\SortingAlgorithm\bin\Debug\SortingAlgorithm.pdb
+E:\UBAYA\Semester 3\Data Structure\Project\SortingAlgorithm\SortingAlgorithm\obj\Debug\SortingAlgorithm.csproj.AssemblyReference.cache
+E:\UBAYA\Semester 3\Data Structure\Project\SortingAlgorithm\SortingAlgorithm\obj\Debug\SortingAlgorithm.csproj.CoreCompileInputs.cache
+E:\UBAYA\Semester 3\Data Structure\Project\SortingAlgorithm\SortingAlgorithm\obj\Debug\SortingAlgorithm.exe
+E:\UBAYA\Semester 3\Data Structure\Project\SortingAlgorithm\SortingAlgorithm\obj\Debug\SortingAlgorithm.pdb
